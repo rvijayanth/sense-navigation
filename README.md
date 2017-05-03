@@ -1,4 +1,6 @@
 # sense-navigation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/stefanwalther/sense-navigation.svg)](https://greenkeeper.io/)
 > Sense Sheet Navigation + Actions visualization extension for Qlik Sense.
 
 ![](https://raw.githubusercontent.com/stefanwalther/sense-navigation/master/docs/images/sense-navigation.png)
